@@ -1,0 +1,27 @@
+/** Space Grotesk **/
+
+@font-face {
+  font-family: "Vesterbro";
+  src: url("~@/assets/fonts/vesterbro/TRYVesterbro-Light.otf") format("opentype");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Vesterbro";
+  src: url("~@/assets/fonts/vesterbro/TRYVesterbro-Regular.otf") format("opentype");
+  font-weight: 400; /*Equivalent of 300. */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Vesterbro";
+  src: url("~@/assets/fonts/vesterbro/TRYVesterbro-Poster.otf") format("opentype");
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Vesterbro";
+  src: url("~@/assets/fonts/vesterbro/TRYVesterbro-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}

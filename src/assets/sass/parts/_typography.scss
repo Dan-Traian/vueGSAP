@@ -1,0 +1,33 @@
+@import "fonts/space-grotesk";
+@import "fonts/vestebro";
+
+$min_width: 320px;
+$max_width: 1200px;
+$min_font: 16px;
+$max_font: 24px;
+
+body,
+* {
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-numeric: normal;
+  font-variant-east-asian: normal;
+  font-weight: normal;
+  font-stretch: normal;
+  font-family: "Space Grotesk", Helvetica, serif !important;
+}
+.vesterbro {
+  font-family: "Vesterbro", Helvetica, serif !important;
+}
+
+.light {
+  font-weight: 300;
+}
+
+.medium {
+  font-weight: 400;
+}
+.bold {
+  font-weight: bold;
+}
